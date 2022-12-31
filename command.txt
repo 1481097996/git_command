@@ -1,0 +1,3 @@
+check commit id: git log
+version back: git reset --hard commit id
+check reset: git reflog
