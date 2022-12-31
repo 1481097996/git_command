@@ -25,3 +25,4 @@ remote github
 git remote add origin git@github.com:1481097996/git_command.git
 git remote
 
+git push --set-upstream origin master:master # bundle the local and remote branch
