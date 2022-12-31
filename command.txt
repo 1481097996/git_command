@@ -19,3 +19,9 @@ merge!!
 force delete
 
 git branch -D name
+
+
+remote github
+git remote add origin git@github.com:1481097996/git_command.git
+git remote
+
