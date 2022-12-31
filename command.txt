@@ -6,3 +6,5 @@ check reset: git reflog
 branch
 
 create and switch: git checkout -b name
+
+merge
