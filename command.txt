@@ -14,3 +14,8 @@ merge
 >>>>>>> dev
 
 merge!!
+
+
+force delete
+
+git branch -D name
