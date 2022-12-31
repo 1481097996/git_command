@@ -28,4 +28,6 @@ git remote
 git push --set-upstream origin master:master # bundle the local and remote branch
 
 
-git fetch [remote name] [branch name] 
+git fetch [remote name] [branch name]  #no merge
+
+git pull  # fetch and merge
